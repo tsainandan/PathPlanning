@@ -1,5 +1,7 @@
 # PathPlanning
 
+Using A* algorithm for path planning in a 2D space.
+
 The code required Python 3.5 to execute.
 
 pygame library is required.
